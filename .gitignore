@@ -1,0 +1,10 @@
+__pycache__/
+.env
+*.pkl
+*.h5
+*.DS_Store
+.idea/
+.vscode/
+data/
+venv/
+
